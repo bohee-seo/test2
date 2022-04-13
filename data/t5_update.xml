@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<updates>
+    <update actions="showURL" appVersion="99.0" buildID="20220330194208" detailsURL="https://www.mozilla.org/en-US/firefox/99.0/releasenotes/" displayVersion="99.0" openURL="https://www.mozilla.org/firefox/99.0/whatsnew/?oldversion=%OLD_VERSION%" type="minor">
+        <patch type="complete" URL="https://download.mozilla.org/?product=firefox-99.0-complete&amp;os=win64&amp;lang=en-US" hashFunction="sha512" hashValue="c82152638ec426e5815c6d93fd9d8dfbe9cb02723030eeb2626ea3ce06bebec71167d2f3c787636140fbb26b0d4531d52dd6c0f46495b50feef39f4935aa16ad" size="59770511"/>
+    </update>
+</updates>

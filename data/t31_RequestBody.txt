@@ -1,0 +1,8 @@
+"u=https%3A%2F%2Fwww.naver.com%2F&e=&os=Win32&ln=en-US&sr=1920x1200&pr=1&bw=1287&bh=1109&c=24&j"
+"=N&k=Y&i=&navigationStart=1649841294019&fetchStart=1649841294620&domainLookupStart=16498412946"
+"76&domainLookupEnd=1649841294692&connectStart=1649841308063&connectEnd=1649841317529&secureCon"
+"nectionStart=1649841312645&requestStart=1649841317550&responseStart=1649841317594&responseEnd="
+"1649841322142&domLoading=1649841322278&domInteractive=1649841337322&domContentLoadedEventStart"
+"=1649841342598&domContentLoadedEventEnd=1649841342600&domComplete=1649841344508&loadEventStart"
+"=1649841344508&loadEventEnd=1649841344509&first-contentful-paint=43508&pan=LIVINGHOME&pid=877e"
+"5f81abda325a7067db6a5290bfc6&ts=1649841344560&EOU"

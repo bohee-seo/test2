@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Server: NWS
+Content-Type: text/html; charset=UTF-8
+Strict-Transport-Security: max-age=63072000; includeSubdomains
+Referrer-Policy: unsafe-url
+Content-Encoding: gzip
+Date: Wed, 13 Apr 2022 09:15:42 GMT
+Content-Length: 1023
+Connection: keep-alive
+Vary: Accept-Encoding
+

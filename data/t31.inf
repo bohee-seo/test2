@@ -1,0 +1,13 @@
+[t31]
+FileName1=t31.html
+URL1=https://lcs.naver.com/m
+Total=2
+RequestHeaderFile=t31_RequestHeader.txt
+RequestBodyFile=t31_RequestBody.txt
+ResponseHeaderFile=t31_ResponseHeader.txt
+ContentType=application/octet-stream
+SnapshotXmlFile=snapshot_31.xml
+FileName2=t31_1cfc9ab7-2be3-48fe-8298-fff3849631b7.jpg
+URL2=https://s.pstatic.net/shopping.phinf/20220412_17/1cfc9ab7-2be3-48fe-8298-fff3849631b7.jpg?type=f214_292
+[ProtocolInfo]
+ProtocolId=QTWeb

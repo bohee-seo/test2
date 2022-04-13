@@ -1,0 +1,16 @@
+HTTP/1.1 200 OK
+Server: NWS
+Content-Type: text/html; charset=UTF-8
+Cache-Control: no-cache, no-store, must-revalidate
+Pragma: no-cache
+P3P: CP="CAO DSP CURa ADMa TAIa PSAa OUR LAW STP PHY ONL UNI PUR FIN COM NAV INT DEM STA PRE"
+X-Frame-Options: DENY
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=63072000; includeSubdomains
+Referrer-Policy: unsafe-url
+Content-Encoding: gzip
+Date: Wed, 13 Apr 2022 09:15:16 GMT
+Content-Length: 35958
+Connection: keep-alive
+Vary: Accept-Encoding
+

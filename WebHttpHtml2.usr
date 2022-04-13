@@ -18,9 +18,9 @@ DFERebrandFlag=Done
 ParamLeftBrace={
 ParamRightBrace=}
 ScriptLanguage=C
-LastCodeGenerationVer=
+LastCodeGenerationVer=2021.2.0.0
 DisableRegenerate=0
-Encoding=
+Encoding=ANSI
 Description=
 ScriptLocale=en-US
 [Actions]
@@ -35,13 +35,15 @@ Profiles=Default Profile
 Default Profile=default.cfg
 [ExtraFiles]
 globals.h=
+WebSocketBuffer.h=
+WebSocketCB.c=
 [Modified Actions]
 vuser_init=0
-Action=0
+Action=1
 vuser_end=0
 [Recorded Actions]
 vuser_init=0
-Action=0
+Action=1
 vuser_end=0
 [Replayed Actions]
 vuser_init=0
@@ -58,3 +60,5 @@ LastReplayStatus=0
 [ActiveReplay]
 LastReplayedRunName=
 ActiveRunName=
+[ExtraFilesToParse]
+WebSocketCB.c=

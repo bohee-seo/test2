@@ -1,0 +1,17 @@
+[t35]
+FileName1=t35.htm
+URL1=https://siape.veta.naver.com/fxshow?su=SU10642&nrefreshx=0
+Total=4
+RequestHeaderFile=t35_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t35_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_35.xml
+FileName2=t35_29199cc8-73a1-4a8b-80b6-98c820fc8713.jpg
+URL2=https://s.pstatic.net/shopping.phinf/20220411_26/29199cc8-73a1-4a8b-80b6-98c820fc8713.jpg?type=f214_292
+FileName3=t35_43608b86-d308-4240-9077-145f647d33ba.jpg
+URL3=https://s.pstatic.net/shopping.phinf/20220407_21/43608b86-d308-4240-9077-145f647d33ba.jpg?type=f214_292
+FileName4=t35_e0d68dbf-ff7f-42f6-ad26-f8b69df3c4fb.jpg
+URL4=https://s.pstatic.net/shopping.phinf/20220411_28/e0d68dbf-ff7f-42f6-ad26-f8b69df3c4fb.jpg?type=f214_292
+[ProtocolInfo]
+ProtocolId=QTWeb

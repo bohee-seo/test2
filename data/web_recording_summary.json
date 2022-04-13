@@ -1,0 +1,1665 @@
+{
+  "FilterHeaders": [
+    {
+      "Header": "x-http-method-override",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "user-agent",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "upgrade-insecure-requests",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "upgrade",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "sec-websocket-version",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "sec-websocket-protocol",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "sec-websocket-key",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "sec-websocket-extensions",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "sec-fetch-site",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "sec-fetch-mode",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "sec-fetch-dest",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "pragma",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "origin",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "dnt",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "cache-control",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "accept-language",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "accept-encoding",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "accept",
+      "IncludeInScript": false
+    }
+  ],
+  "FilterResources": [
+    {
+      "IsNonResource": true,
+      "type": "text/xml"
+    },
+    {
+      "IsNonResource": false,
+      "type": "text/plain"
+    },
+    {
+      "IsNonResource": true,
+      "type": "text/html"
+    },
+    {
+      "IsNonResource": false,
+      "type": "text/css"
+    },
+    {
+      "IsNonResource": false,
+      "type": "image/vnd.microsoft.icon"
+    },
+    {
+      "IsNonResource": false,
+      "type": "image/png"
+    },
+    {
+      "IsNonResource": false,
+      "type": "image/jpeg"
+    },
+    {
+      "IsNonResource": false,
+      "type": "image/gif"
+    },
+    {
+      "IsNonResource": false,
+      "type": "application/x-protobuf"
+    },
+    {
+      "IsNonResource": false,
+      "type": "application/octet-stream"
+    },
+    {
+      "IsNonResource": false,
+      "type": "application/ocsp-response"
+    },
+    {
+      "IsNonResource": true,
+      "type": "application/json"
+    },
+    {
+      "IsNonResource": false,
+      "type": "application/javascript"
+    }
+  ],
+  "GeneralInfo": {
+    "BrowserVersion": "",
+    "IsWinInetMode": false,
+    "MaxUsedConnections": 57,
+    "RecordedBrowser": "Firefox",
+    "RecordingDate": "Apr-13-2022",
+    "RecordingDuration": 70359,
+    "RecordingMode": "N/A",
+    "RecordingTimeStamp": 1649841290,
+    "RecordingType": "Browser",
+    "TotalBytesReceived": 2284237,
+    "TotalBytesSent": 59373,
+    "TotalRequests": 132,
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:95.0) Gecko/20100101 Firefox/95.0"
+  },
+  "HostInfo": [
+    {
+      "DomainName": "whatfix.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "104.18.30.171",
+          "IncludeInScript": true,
+          "Name": "whatfix.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/json",
+              "DownloadTime": 47,
+              "EventId": 524,
+              "HttpStatus": 200,
+              "Size": 55,
+              "URL": "https://whatfix.com/service/9ac8fa80-57d3-11ea-a224-bacbbe07b880/cconfig/ent-config"
+            }
+          ],
+          "SSLCipher": "TLS_AES_256_GCM_SHA384",
+          "SSLVersion": "TLS1.3"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "pstatic.net",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "101.79.137.172",
+          "IncludeInScript": true,
+          "Name": "static-whale.pstatic.net",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 140,
+              "EventId": 714,
+              "HttpStatus": 200,
+              "Size": 19055,
+              "URL": "https://static-whale.pstatic.net/main/sprite-20211123@2x.png"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 109,
+              "EventId": 683,
+              "HttpStatus": 200,
+              "Size": 27370,
+              "URL": "https://static-whale.pstatic.net/main/img_sidebar_v3@2x.png"
+            }
+          ],
+          "SSLCipher": "TLS_AES_128_GCM_SHA256",
+          "SSLVersion": "TLS1.3"
+        },
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "23.74.225.84",
+          "IncludeInScript": true,
+          "Name": "ssl.pstatic.net",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 16,
+              "EventId": 975,
+              "HttpStatus": 200,
+              "Size": 50321,
+              "URL": "https://ssl.pstatic.net/tveta/libs/1287/1287125/c64b3559dcfb586a795c_20220412150426116.jpg"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 31,
+              "EventId": 964,
+              "HttpStatus": 200,
+              "Size": 73896,
+              "URL": "https://ssl.pstatic.net/tveta/libs/1388/1388647/95a3367be9d367efaddb_20220413133942492.png"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 31,
+              "EventId": 962,
+              "HttpStatus": 200,
+              "Size": 62522,
+              "URL": "https://ssl.pstatic.net/tveta/libs/1364/1364184/39d0283560317e1b700a_20220406102627881.jpg"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/javascript",
+              "DownloadTime": 94,
+              "EventId": 958,
+              "HttpStatus": 200,
+              "Size": 8735,
+              "URL": "https://ssl.pstatic.net/tveta/libs/assets/js/pc/main/min/pc.veta.core.min.js?20211105"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/javascript",
+              "DownloadTime": 16,
+              "EventId": 954,
+              "HttpStatus": 200,
+              "Size": 36174,
+              "URL": "https://ssl.pstatic.net/tveta/libs/external/js/jquery-1.8.0.min.js?20170206"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/javascript",
+              "DownloadTime": 47,
+              "EventId": 512,
+              "HttpStatus": 200,
+              "Size": 30775,
+              "URL": "https://ssl.pstatic.net/tveta/libs/ndpsdk/prod/ndp-core.js"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/css",
+              "DownloadTime": 31,
+              "EventId": 432,
+              "HttpStatus": 200,
+              "Size": 3922,
+              "URL": "https://ssl.pstatic.net/sstatic/search/pc/css/sp_autocomplete_210318.css"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/javascript",
+              "DownloadTime": 31,
+              "EventId": 400,
+              "HttpStatus": 200,
+              "Size": 61286,
+              "URL": "https://ssl.pstatic.net/tveta/libs/glad/prod/gfp-core.js"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/javascript",
+              "DownloadTime": 16,
+              "EventId": 394,
+              "HttpStatus": 200,
+              "Size": 638,
+              "URL": "https://ssl.pstatic.net/tveta/libs/ndpsdk/prod/ndp-loader.js"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/javascript",
+              "DownloadTime": 16,
+              "EventId": 379,
+              "HttpStatus": 200,
+              "Size": 8735,
+              "URL": "https://ssl.pstatic.net/tveta/libs/assets/js/pc/main/min/pc.veta.core.min.js"
+            }
+          ],
+          "SSLCipher": "ECDHE-RSA-AES128-GCM-SHA256",
+          "SSLVersion": "TLS1.2"
+        },
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "23.74.169.40",
+          "IncludeInScript": true,
+          "Name": "s.pstatic.net",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/javascript",
+              "DownloadTime": 31,
+              "EventId": 979,
+              "HttpStatus": 200,
+              "Size": 4621,
+              "URL": "https://s.pstatic.net/imgshopping/static/sb/shoppingbox/js/sb/shopboxS05_v3.js?v=2022030715"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/javascript",
+              "DownloadTime": 31,
+              "EventId": 942,
+              "HttpStatus": 200,
+              "Size": 4787,
+              "URL": "https://s.pstatic.net/imgshopping/static/sb/shoppingbox/js/sb/nclkS02_v1.js?v=2022030715"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 15,
+              "EventId": 938,
+              "HttpStatus": 200,
+              "Size": 129294,
+              "URL": "https://s.pstatic.net/shopping.phinf/20220407_11/54deb255-39fb-4db6-95d1-36cf71788023.jpg"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 16,
+              "EventId": 934,
+              "HttpStatus": 200,
+              "Size": 25142,
+              "URL": "https://s.pstatic.net/shopping.phinf/20211112_0/1e10d8ee-db6f-4c82-9e2e-ee026d2c9942.jpg"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 32,
+              "EventId": 919,
+              "HttpStatus": 200,
+              "Size": 46268,
+              "URL": "https://s.pstatic.net/shopping.phinf/20220411_28/e0d68dbf-ff7f-42f6-ad26-f8b69df3c4fb.jpg?type=f214_292"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 31,
+              "EventId": 916,
+              "HttpStatus": 200,
+              "Size": 36448,
+              "URL": "https://s.pstatic.net/shopping.phinf/20220407_21/43608b86-d308-4240-9077-145f647d33ba.jpg?type=f214_292"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 31,
+              "EventId": 914,
+              "HttpStatus": 200,
+              "Size": 45186,
+              "URL": "https://s.pstatic.net/shopping.phinf/20220411_26/29199cc8-73a1-4a8b-80b6-98c820fc8713.jpg?type=f214_292"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 15,
+              "EventId": 910,
+              "HttpStatus": 200,
+              "Size": 27158,
+              "URL": "https://s.pstatic.net/shopping.phinf/20220411_4/690f27dc-d9fa-4912-857e-eef6089e2238.jpg?type=f214_292"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 31,
+              "EventId": 900,
+              "HttpStatus": 200,
+              "Size": 24693,
+              "URL": "https://s.pstatic.net/shopping.phinf/20220324_6/8757eba4-b64d-4f01-a9e7-918a5e6d12b5.jpg?type=f214_292"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 15,
+              "EventId": 896,
+              "HttpStatus": 200,
+              "Size": 57944,
+              "URL": "https://s.pstatic.net/shopping.phinf/20210812_11/56dd6298-c3d4-4c5b-ac28-99b8648bdd54.jpg?type=f214_292"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 31,
+              "EventId": 883,
+              "HttpStatus": 200,
+              "Size": 37705,
+              "URL": "https://s.pstatic.net/shopping.phinf/20220412_28/3091487c-495e-486e-b189-5b746e25bcd0.jpg?type=f214_292"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 31,
+              "EventId": 881,
+              "HttpStatus": 200,
+              "Size": 25014,
+              "URL": "https://s.pstatic.net/shopping.phinf/20220413_0/e3e5b585-3541-4576-9e8e-a0bdbb401a52.jpg?type=f214_292"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 31,
+              "EventId": 879,
+              "HttpStatus": 200,
+              "Size": 44711,
+              "URL": "https://s.pstatic.net/shopping.phinf/20220411_0/ddfcf6ed-632b-4804-940d-f8186f5f04ad.jpg?type=f214_292"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 15,
+              "EventId": 877,
+              "HttpStatus": 200,
+              "Size": 40607,
+              "URL": "https://s.pstatic.net/shopping.phinf/20220408_22/c5d3aaa7-5946-4c97-a196-89e4b4c2aca6.jpg?type=f214_292"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 16,
+              "EventId": 870,
+              "HttpStatus": 200,
+              "Size": 43729,
+              "URL": "https://s.pstatic.net/shopping.phinf/20220412_17/1cfc9ab7-2be3-48fe-8298-fff3849631b7.jpg?type=f214_292"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/javascript",
+              "DownloadTime": 46,
+              "EventId": 863,
+              "HttpStatus": 200,
+              "Size": 33793,
+              "URL": "https://s.pstatic.net/imgshopping/static/sb/shoppingbox/js/jquery/jquery-1.12.4.min_v1.js?v=2022030715"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 16,
+              "EventId": 856,
+              "HttpStatus": 200,
+              "Size": 49736,
+              "URL": "https://s.pstatic.net/shopping.phinf/20220408_20/34e46c06-0bff-4147-97af-ef0f85ff46d0.jpg?type=f214_292"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 16,
+              "EventId": 843,
+              "HttpStatus": 200,
+              "Size": 9730,
+              "URL": "https://s.pstatic.net/static/www/img/uit/2021/sp_shop_bffdc9.png"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 16,
+              "EventId": 813,
+              "HttpStatus": 200,
+              "Size": 43,
+              "URL": "https://s.pstatic.net/static/www/2014/blank.gif"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/css",
+              "DownloadTime": 15,
+              "EventId": 803,
+              "HttpStatus": 200,
+              "Size": 4125,
+              "URL": "https://s.pstatic.net/imgshopping/static/sb/shoppingbox/css/shopboxR0014_v6.css?v=2022030715"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 110,
+              "EventId": 721,
+              "HttpStatus": 200,
+              "Size": 1719,
+              "URL": "https://s.pstatic.net/static/newsstand/2020/logo/light/0604/969.png"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 31,
+              "EventId": 712,
+              "HttpStatus": 200,
+              "Size": 3229,
+              "URL": "https://s.pstatic.net/static/newsstand/2020/logo/light/0604/328.png"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 31,
+              "EventId": 710,
+              "HttpStatus": 200,
+              "Size": 3438,
+              "URL": "https://s.pstatic.net/static/newsstand/2020/logo/light/0604/946.png"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 47,
+              "EventId": 708,
+              "HttpStatus": 200,
+              "Size": 2109,
+              "URL": "https://s.pstatic.net/static/newsstand/2020/logo/light/0604/824.png"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 15,
+              "EventId": 706,
+              "HttpStatus": 200,
+              "Size": 1715,
+              "URL": "https://s.pstatic.net/static/newsstand/2020/logo/light/0604/972.png"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 16,
+              "EventId": 704,
+              "HttpStatus": 200,
+              "Size": 1959,
+              "URL": "https://s.pstatic.net/static/newsstand/2020/logo/light/0604/944.png"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 16,
+              "EventId": 702,
+              "HttpStatus": 200,
+              "Size": 3757,
+              "URL": "https://s.pstatic.net/static/newsstand/2020/logo/light/0604/927.png"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 31,
+              "EventId": 689,
+              "HttpStatus": 200,
+              "Size": 6503,
+              "URL": "https://s.pstatic.net/static/newsstand/up/2022/0203/nsd132437538.png"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 31,
+              "EventId": 680,
+              "HttpStatus": 200,
+              "Size": 1763,
+              "URL": "https://s.pstatic.net/static/newsstand/2020/logo/light/0604/014.png"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 15,
+              "EventId": 678,
+              "HttpStatus": 200,
+              "Size": 1798,
+              "URL": "https://s.pstatic.net/static/newsstand/up/2020/1119/nsd213345745.png"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 15,
+              "EventId": 675,
+              "HttpStatus": 200,
+              "Size": 1724,
+              "URL": "https://s.pstatic.net/static/newsstand/2020/logo/light/0604/079.png"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 16,
+              "EventId": 660,
+              "HttpStatus": 200,
+              "Size": 1474,
+              "URL": "https://s.pstatic.net/static/newsstand/2020/logo/light/0604/022.png"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 15,
+              "EventId": 658,
+              "HttpStatus": 200,
+              "Size": 258544,
+              "URL": "https://s.pstatic.net/static/www/img/uit/sp_main_dba1af.png"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 32,
+              "EventId": 654,
+              "HttpStatus": 200,
+              "Size": 2250,
+              "URL": "https://s.pstatic.net/static/newsstand/2020/logo/light/0604/277.png"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 16,
+              "EventId": 652,
+              "HttpStatus": 200,
+              "Size": 4860,
+              "URL": "https://s.pstatic.net/static/newsstand/2020/logo/light/0604/117.png"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 47,
+              "EventId": 650,
+              "HttpStatus": 200,
+              "Size": 2088,
+              "URL": "https://s.pstatic.net/static/newsstand/2020/logo/light/0604/215.png"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 16,
+              "EventId": 648,
+              "HttpStatus": 200,
+              "Size": 1549,
+              "URL": "https://s.pstatic.net/static/newsstand/2020/logo/light/0604/327.png"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 16,
+              "EventId": 646,
+              "HttpStatus": 200,
+              "Size": 3435,
+              "URL": "https://s.pstatic.net/static/newsstand/up/2020/0610/nsd151458769.png"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 15,
+              "EventId": 636,
+              "HttpStatus": 200,
+              "Size": 2790,
+              "URL": "https://s.pstatic.net/static/newsstand/2020/logo/light/0604/002.png"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 47,
+              "EventId": 634,
+              "HttpStatus": 200,
+              "Size": 1897,
+              "URL": "https://s.pstatic.net/static/newsstand/2020/logo/light/0604/029.png"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 15,
+              "EventId": 632,
+              "HttpStatus": 200,
+              "Size": 2025,
+              "URL": "https://s.pstatic.net/static/newsstand/2020/logo/light/0604/006.png"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 16,
+              "EventId": 630,
+              "HttpStatus": 200,
+              "Size": 15528,
+              "URL": "https://s.pstatic.net/static/newsstand/up/2021/0824/nsd115034872.png"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 16,
+              "EventId": 628,
+              "HttpStatus": 200,
+              "Size": 2567,
+              "URL": "https://s.pstatic.net/static/newsstand/2020/logo/light/0604/020.png"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 32,
+              "EventId": 622,
+              "HttpStatus": 200,
+              "Size": 2337,
+              "URL": "https://s.pstatic.net/static/newsstand/2020/logo/light/0604/308.png"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 15,
+              "EventId": 620,
+              "HttpStatus": 200,
+              "Size": 2147,
+              "URL": "https://s.pstatic.net/static/newsstand/2020/logo/light/0604/366.png"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 15,
+              "EventId": 616,
+              "HttpStatus": 200,
+              "Size": 23858,
+              "URL": "https://s.pstatic.net/dthumb.phinf/?src=%22https%3A%2F%2Fs.pstatic.net%2Fshop.phinf%2F20220411_119%2F164964072662282JCy_JPEG%2F336_1.jpg%22&type=nf340_228"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 15,
+              "EventId": 614,
+              "HttpStatus": 200,
+              "Size": 17087,
+              "URL": "https://s.pstatic.net/dthumb.phinf/?src=%22https%3A%2F%2Fs.pstatic.net%2Fshop.phinf%2F20220411_72%2F1649640699490Cx0GM_JPEG%2F336_1.jpg%22&type=nf340_228"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 31,
+              "EventId": 605,
+              "HttpStatus": 200,
+              "Size": 19974,
+              "URL": "https://s.pstatic.net/dthumb.phinf/?src=%22https%3A%2F%2Fs.pstatic.net%2Fshop.phinf%2F20220412_212%2F1649770864789iksLX_JPEG%2F336_38.jpg%22&type=nf340_228"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 15,
+              "EventId": 600,
+              "HttpStatus": 200,
+              "Size": 23015,
+              "URL": "https://s.pstatic.net/dthumb.phinf/?src=%22https%3A%2F%2Fs.pstatic.net%2Fshop.phinf%2F20220412_264%2F1649774326061uLzET_JPEG%2F750_1.jpg%22&type=nf340_228"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 31,
+              "EventId": 596,
+              "HttpStatus": 200,
+              "Size": 93192,
+              "URL": "https://s.pstatic.net/static/www/img/uit/sp_weather_time_5f2bbb.png"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 47,
+              "EventId": 589,
+              "HttpStatus": 200,
+              "Size": 23922,
+              "URL": "https://s.pstatic.net/dthumb.phinf/?src=%22https%3A%2F%2Fs.pstatic.net%2Fshop.phinf%2F20220412_287%2F1649772660469Oeeyy_JPEG%2F336_5.jpg%22&type=nf340_228"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 31,
+              "EventId": 584,
+              "HttpStatus": 200,
+              "Size": 3599,
+              "URL": "https://s.pstatic.net/static/www/u/2014/0328/mma_204243574.png"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 16,
+              "EventId": 581,
+              "HttpStatus": 200,
+              "Size": 23542,
+              "URL": "https://s.pstatic.net/dthumb.phinf/?src=%22https%3A%2F%2Fs.pstatic.net%2Fshop.phinf%2F20220406_51%2F1649238215317vMqNI_JPEG%2Fruj6.jpg%22&type=nf340_228"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 16,
+              "EventId": 579,
+              "HttpStatus": 200,
+              "Size": 18049,
+              "URL": "https://s.pstatic.net/dthumb.phinf/?src=%22https%3A%2F%2Fs.pstatic.net%2Fshop.phinf%2F20220411_143%2F1649685412384gAkAL_JPEG%2F750_0.jpg%22&type=nf340_228"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 32,
+              "EventId": 577,
+              "HttpStatus": 200,
+              "Size": 27542,
+              "URL": "https://s.pstatic.net/dthumb.phinf/?src=%22https%3A%2F%2Fs.pstatic.net%2Fshop.phinf%2F20220406_81%2F1649237915469FOCI6_JPEG%2Fk.jpg%22&type=nf340_228"
+            }
+          ],
+          "SSLCipher": "ECDHE-RSA-AES128-GCM-SHA256",
+          "SSLVersion": "TLS1.2"
+        },
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "23.74.169.40",
+          "IncludeInScript": true,
+          "Name": "pm.pstatic.net",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/javascript",
+              "DownloadTime": 31,
+              "EventId": 519,
+              "HttpStatus": 200,
+              "Size": 4560,
+              "URL": "https://pm.pstatic.net/dist/js/vendors~more~nmain~notice~search~sidebar_notice.349d5f0e.js?o=www"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/javascript",
+              "DownloadTime": 32,
+              "EventId": 515,
+              "HttpStatus": 200,
+              "Size": 37813,
+              "URL": "https://pm.pstatic.net/dist/js/nmain.8c6518f6.js?o=www"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/javascript",
+              "DownloadTime": 32,
+              "EventId": 470,
+              "HttpStatus": 200,
+              "Size": 53113,
+              "URL": "https://pm.pstatic.net/dist/js/search.a46266a0.js?o=www"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/javascript",
+              "DownloadTime": 32,
+              "EventId": 468,
+              "HttpStatus": 200,
+              "Size": 10847,
+              "URL": "https://pm.pstatic.net/dist/js/vendors~more~nmain~sidebar_notice.1cb39634.js?o=www"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/javascript",
+              "DownloadTime": 47,
+              "EventId": 441,
+              "HttpStatus": 200,
+              "Size": 8537,
+              "URL": "https://pm.pstatic.net/dist/js/polyfill.ba1684f4.js?o=www"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/css",
+              "DownloadTime": 31,
+              "EventId": 434,
+              "HttpStatus": 200,
+              "Size": 20662,
+              "URL": "https://pm.pstatic.net/dist/css/nmain.20220331.css"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/javascript",
+              "DownloadTime": 15,
+              "EventId": 398,
+              "HttpStatus": 200,
+              "Size": 99395,
+              "URL": "https://pm.pstatic.net/dist/js/external.a0729675.js?o=www"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/javascript",
+              "DownloadTime": 16,
+              "EventId": 396,
+              "HttpStatus": 200,
+              "Size": 6986,
+              "URL": "https://pm.pstatic.net/dist/js/preload.b0b0a351.js?o=www"
+            }
+          ],
+          "SSLCipher": "ECDHE-RSA-AES128-GCM-SHA256",
+          "SSLVersion": "TLS1.2"
+        },
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "23.74.169.40",
+          "IncludeInScript": true,
+          "Name": "happybean-phinf.pstatic.net",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 15,
+              "EventId": 567,
+              "HttpStatus": 200,
+              "Size": 34543,
+              "URL": "https://happybean-phinf.pstatic.net/20220330_285/1648628848585RxRyr_JPEG/%ED%95%A8%EB%8B%A4%ED%98%81_(3).jpg?type=f464_260"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 63,
+              "EventId": 538,
+              "HttpStatus": 200,
+              "Size": 35710,
+              "URL": "https://happybean-phinf.pstatic.net/20220411_44/1649665244500UCVFR_JPEG/EBA1ACEDBCECA4ED-28429.jpg?type=f464_260"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 16,
+              "EventId": 533,
+              "HttpStatus": 200,
+              "Size": 40770,
+              "URL": "https://happybean-phinf.pstatic.net/20220308_87/1646726555986hL6jA_JPEG/%B8%EB%A4%EC1.jpg?type=f464_260"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 15,
+              "EventId": 531,
+              "HttpStatus": 200,
+              "Size": 51296,
+              "URL": "https://happybean-phinf.pstatic.net/20220411_140/1649652955294ApvpM_JPEG/%A5%EC%B4%ED%B5%EB_%2844%29.jpg?type=f464_260"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 63,
+              "EventId": 527,
+              "HttpStatus": 200,
+              "Size": 31136,
+              "URL": "https://happybean-phinf.pstatic.net/20220308_80/1646721435840igk1U_JPEG/n_mm.jpg?type=f464_260"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 16,
+              "EventId": 522,
+              "HttpStatus": 200,
+              "Size": 24289,
+              "URL": "https://happybean-phinf.pstatic.net/20220324_26/1648084121948sU11D_JPEG/th.jpg?type=f464_260"
+            }
+          ],
+          "SSLCipher": "ECDHE-RSA-AES128-GCM-SHA256",
+          "SSLVersion": "TLS1.2"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "ocsp.pki.goog",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "142.251.10.94",
+          "IncludeInScript": true,
+          "Name": "ocsp.pki.goog",
+          "Port": 80,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "application/ocsp-response",
+              "DownloadTime": 0,
+              "EventId": 360,
+              "HttpStatus": 200,
+              "Size": 471,
+              "URL": "http://ocsp.pki.goog/gts1c3"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/ocsp-response",
+              "DownloadTime": 16,
+              "EventId": 291,
+              "HttpStatus": 200,
+              "Size": 5,
+              "URL": "http://ocsp.pki.goog/gts1c3"
+            }
+          ],
+          "SSLCipher": "None",
+          "SSLVersion": "None"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "naver.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "104.84.156.236",
+          "IncludeInScript": true,
+          "Name": "www.naver.com",
+          "Port": 80,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 453,
+              "EventId": 229,
+              "HttpStatus": 302,
+              "Size": 138,
+              "URL": "http://www.naver.com/"
+            }
+          ],
+          "SSLCipher": "None",
+          "SSLVersion": "None"
+        },
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "104.84.156.236",
+          "IncludeInScript": true,
+          "Name": "www.naver.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/html",
+              "DownloadTime": 156,
+              "EventId": 854,
+              "HttpStatus": 200,
+              "Size": 2066,
+              "URL": "https://www.naver.com/include/favorite/favoriteMeta.json"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/javascript",
+              "DownloadTime": 15,
+              "EventId": 819,
+              "HttpStatus": 200,
+              "Size": 523,
+              "URL": "https://www.naver.com/shoppingbox/js/lazyload.js"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/javascript",
+              "DownloadTime": 31,
+              "EventId": 805,
+              "HttpStatus": 200,
+              "Size": 8346,
+              "URL": "https://www.naver.com/shoppingbox/js/intersectionobserver/polyfill/intersection-observer.js"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/html",
+              "DownloadTime": 172,
+              "EventId": 778,
+              "HttpStatus": 200,
+              "Size": 29180,
+              "URL": "https://www.naver.com/shoppingbox/shoppingboxnew/main.nhn?domain=N"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/html",
+              "DownloadTime": 109,
+              "EventId": 593,
+              "HttpStatus": 200,
+              "Size": 1023,
+              "URL": "https://www.naver.com/include/themecast/targetAndPanels.json"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/html",
+              "DownloadTime": 156,
+              "EventId": 546,
+              "HttpStatus": 200,
+              "Size": 48442,
+              "URL": "https://www.naver.com/"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "image/vnd.microsoft.icon",
+              "DownloadTime": 16,
+              "EventId": 463,
+              "HttpStatus": 200,
+              "Size": 716,
+              "URL": "https://www.naver.com/favicon.ico?1"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/html",
+              "DownloadTime": 219,
+              "EventId": 226,
+              "HttpStatus": 200,
+              "Size": 35958,
+              "URL": "https://www.naver.com/"
+            }
+          ],
+          "SSLCipher": "",
+          "SSLVersion": ""
+        },
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "23.58.140.186",
+          "IncludeInScript": true,
+          "Name": "siape.veta.naver.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "",
+              "DownloadTime": 110,
+              "EventId": 985,
+              "HttpStatus": 200,
+              "Size": 0,
+              "URL": "https://siape.veta.naver.com/fxview?eu=EU10043151&calp=-&oj=Gdl%2FoFAYTRkAyd8h7aqH5N4QML%2FQe5c4cBL68IAEamROeyB5RSXlnJVXuXnWDXG8szS0XD7EPuk&ac=8524851&src=5714242&evtcd=FOCUS_VIEW&x_ti=1434&tb=&oid=&sid1=&sid2=&rk=b6e3e2e88ea94d941d7d3532313f629a&eltts=lO%2BNXtdHMBFqhWJvAyirPg%3D%3D&brs=Y&&eid=V810&dummy=0.42356012076940786"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "",
+              "DownloadTime": 109,
+              "EventId": 983,
+              "HttpStatus": 200,
+              "Size": 0,
+              "URL": "https://siape.veta.naver.com/fxview?eu=EU10043151&calp=-&oj=Gdl%2FoFAYTRkAyd8h7aqH5N4QML%2FQe5c4cBL68IAEamROeyB5RSXlnJVXuXnWDXG8szS0XD7EPuk&ac=8524851&src=5714240&evtcd=C1073&x_ti=1434&tb=&oid=&sid1=&sid2=&rk=b6e3e2e88ea94d941d7d3532313f629a&eltts=lO%2BNXtdHMBFqhWJvAyirPg%3D%3D&brs=Y&&eid=V810&dummy=0.13981641560574332"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "",
+              "DownloadTime": 140,
+              "EventId": 930,
+              "HttpStatus": 200,
+              "Size": 0,
+              "URL": "https://siape.veta.naver.com/fxview?eu=EU10043151&calp=-&oj=Gdl%2FoFAYTRkAyd8h7aqH5N4QML%2FQe5c4cBL68IAEamROeyB5RSXlnJVXuXnWDXG8szS0XD7EPuk&ac=8524851&src=5714241&evtcd=FOCUS_IMP&x_ti=1434&tb=&oid=&sid1=&sid2=&rk=b6e3e2e88ea94d941d7d3532313f629a&eltts=lO%2BNXtdHMBFqhWJvAyirPg%3D%3D&brs=Y&&eid=V810&dummy=0.9348108802068142"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/html",
+              "DownloadTime": 109,
+              "EventId": 912,
+              "HttpStatus": 200,
+              "Size": 2300,
+              "URL": "https://siape.veta.naver.com/fxshow?su=SU10642&nrefreshx=0"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/html",
+              "DownloadTime": 141,
+              "EventId": 903,
+              "HttpStatus": 200,
+              "Size": 2316,
+              "URL": "https://siape.veta.naver.com/fxshow?su=SU10640&nrefreshx=0"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/html",
+              "DownloadTime": 109,
+              "EventId": 898,
+              "HttpStatus": 200,
+              "Size": 2273,
+              "URL": "https://siape.veta.naver.com/fxshow?su=SU10641&nrefreshx=0"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "",
+              "DownloadTime": 109,
+              "EventId": 875,
+              "HttpStatus": 200,
+              "Size": 0,
+              "URL": "https://siape.veta.naver.com/fxview?eu=EU10043151&calp=-&oj=Gdl%2FoFAYTRkAyd8h7aqH5N4QML%2FQe5c4cBL68IAEamROeyB5RSXlnJVXuXnWDXG8szS0XD7EPuk&ac=8524851&src=5714239&evtcd=P100&x_ti=1434&tb=&oid=&sid1=&sid2=&rk=b6e3e2e88ea94d941d7d3532313f629a&eltts=lO%2BNXtdHMBFqhWJvAyirPg%3D%3D&brs=Y&&eid=V800&dummy=0.5716010018267605"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/html",
+              "DownloadTime": 125,
+              "EventId": 833,
+              "HttpStatus": 200,
+              "Size": 886,
+              "URL": "https://siape.veta.naver.com/fxshow?su=SU10803&nrefreshx=0"
+            }
+          ],
+          "SSLCipher": "",
+          "SSLVersion": ""
+        },
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "203.104.175.36",
+          "IncludeInScript": true,
+          "Name": "lcs.naver.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "application/octet-stream",
+              "DownloadTime": 47,
+              "EventId": 867,
+              "HttpStatus": 200,
+              "Size": 0,
+              "URL": "https://lcs.naver.com/m"
+            }
+          ],
+          "SSLCipher": "",
+          "SSLVersion": ""
+        },
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "223.130.200.97",
+          "IncludeInScript": true,
+          "Name": "l.www.naver.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 156,
+              "EventId": 960,
+              "HttpStatus": 200,
+              "Size": 43,
+              "URL": "https://l.www.naver.com/l?SOU&svcOnList=&act=PC.lcs&ts=1649841344510&svr=%3C!--cvweb02--%3E&EOU"
+            }
+          ],
+          "SSLCipher": "TLS_AES_256_GCM_SHA384",
+          "SSLVersion": "TLS1.3"
+        },
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "210.89.168.79",
+          "IncludeInScript": true,
+          "Name": "cologger.shopping.naver.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 156,
+              "EventId": 1023,
+              "HttpStatus": 200,
+              "Size": 14,
+              "URL": "https://cologger.shopping.naver.com/api/v1/validexpose/biz/TREND_PROD/expsTrtr/TRPD01?adCntsSeqs=4485528&cntsTypeCd=K54001&inflowCd=sbtp&expsPage=1"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 109,
+              "EventId": 1021,
+              "HttpStatus": 200,
+              "Size": 14,
+              "URL": "https://cologger.shopping.naver.com/api/v1/validexpose/biz/TREND_PROD/expsTrtr/TRPD01?adCntsSeqs=4484861&cntsTypeCd=K54001&inflowCd=sbtp&expsPage=1"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 94,
+              "EventId": 1019,
+              "HttpStatus": 200,
+              "Size": 14,
+              "URL": "https://cologger.shopping.naver.com/api/v1/validexpose/biz/TREND_PROD/expsTrtr/TRPD01?adCntsSeqs=4464581&cntsTypeCd=K54001&inflowCd=sbtp&expsPage=1"
+            }
+          ],
+          "SSLCipher": "",
+          "SSLVersion": ""
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "mozilla.org",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "35.244.181.201",
+          "IncludeInScript": true,
+          "Name": "aus5.mozilla.org",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/xml",
+              "DownloadTime": 453,
+              "EventId": 235,
+              "HttpStatus": 200,
+              "Size": 416,
+              "URL": "https://aus5.mozilla.org/update/6/Firefox/95.0.2/20211218203254/WINNT_x86_64-msvc-x64/en-US/release/Windows_NT%2010.0.0.0.19042.1586%20(x64)/ISET:SSE4_2,MEM:65282/default/default/update.xml"
+            }
+          ],
+          "SSLCipher": "",
+          "SSLVersion": ""
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "mozilla.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "34.218.121.180",
+          "IncludeInScript": true,
+          "Name": "push.services.mozilla.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "",
+              "DownloadTime": 218,
+              "EventId": 409,
+              "HttpStatus": 101,
+              "Size": 0,
+              "URL": "https://push.services.mozilla.com/"
+            }
+          ],
+          "SSLCipher": "",
+          "SSLVersion": ""
+        },
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "13.33.96.5",
+          "IncludeInScript": true,
+          "Name": "firefox.settings.services.mozilla.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 16,
+              "EventId": 197,
+              "HttpStatus": 200,
+              "Size": 939,
+              "URL": "https://firefox.settings.services.mozilla.com/v1/"
+            }
+          ],
+          "SSLCipher": "TLS_AES_128_GCM_SHA256",
+          "SSLVersion": "TLS1.3"
+        },
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "34.117.237.239",
+          "IncludeInScript": true,
+          "Name": "contile.services.mozilla.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 453,
+              "EventId": 233,
+              "HttpStatus": 200,
+              "Size": 12,
+              "URL": "https://contile.services.mozilla.com/v1/tiles"
+            }
+          ],
+          "SSLCipher": "",
+          "SSLVersion": ""
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "lencr.org",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "23.220.203.24",
+          "IncludeInScript": true,
+          "Name": "r3.o.lencr.org",
+          "Port": 80,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "application/ocsp-response",
+              "DownloadTime": 250,
+              "EventId": 285,
+              "HttpStatus": 200,
+              "Size": 5,
+              "URL": "http://r3.o.lencr.org/"
+            }
+          ],
+          "SSLCipher": "None",
+          "SSLVersion": "None"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "googleapis.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "142.250.4.95",
+          "IncludeInScript": true,
+          "Name": "safebrowsing.googleapis.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/x-protobuf",
+              "DownloadTime": 16,
+              "EventId": 209,
+              "HttpStatus": 200,
+              "Size": 643,
+              "URL": "https://safebrowsing.googleapis.com/v4/threatListUpdates:fetch?$ct=application/x-protobuf&key=AIzaSyC7jsptDS3am4tPx4r3nxis7IMjBc5Dovo&$httpMethod=POST&$req=ChUKE25hdmNsaWVudC1hdXRvLWZmb3gaJwgFEAEaGwoNCAUQBhgBIgMwMDEwARCm3g0aAhgLKRO7DSICIAIoARonCAEQARobCg0IARAGGAEiAzAwMTABEPTJChoCGAuKnyujIgIgAigBGicIAxABGhsKDQgDEAYYASIDMDAxMAEQ4I8KGgIYC5jy4ZIiAiACKAEaJwgHEAEaGwoNCAcQBhgBIgMwMDEwARCihAsaAhgLcZA_zCICIAIoARolCAkQARoZCg0ICRAGGAEiAzAwMTABECAaAhgLU90r9yICIAIoAQ=="
+            }
+          ],
+          "SSLCipher": "",
+          "SSLVersion": ""
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "godaddy.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "192.124.249.23",
+          "IncludeInScript": true,
+          "Name": "ocsp.godaddy.com",
+          "Port": 80,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "application/ocsp-response",
+              "DownloadTime": 578,
+              "EventId": 362,
+              "HttpStatus": 200,
+              "Size": 5,
+              "URL": "http://ocsp.godaddy.com/"
+            }
+          ],
+          "SSLCipher": "None",
+          "SSLVersion": "None"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "geotrust.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "117.18.237.29",
+          "IncludeInScript": true,
+          "Name": "status.geotrust.com",
+          "Port": 80,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "application/ocsp-response",
+              "DownloadTime": 94,
+              "EventId": 839,
+              "HttpStatus": 200,
+              "Size": 471,
+              "URL": "http://status.geotrust.com/"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/ocsp-response",
+              "DownloadTime": 203,
+              "EventId": 478,
+              "HttpStatus": 200,
+              "Size": 471,
+              "URL": "http://status.geotrust.com/"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/ocsp-response",
+              "DownloadTime": 219,
+              "EventId": 422,
+              "HttpStatus": 200,
+              "Size": 471,
+              "URL": "http://status.geotrust.com/"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/ocsp-response",
+              "DownloadTime": 15,
+              "EventId": 386,
+              "HttpStatus": 200,
+              "Size": 471,
+              "URL": "http://status.geotrust.com/"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/ocsp-response",
+              "DownloadTime": 93,
+              "EventId": 384,
+              "HttpStatus": 200,
+              "Size": 471,
+              "URL": "http://status.geotrust.com/"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/ocsp-response",
+              "DownloadTime": 78,
+              "EventId": 308,
+              "HttpStatus": 200,
+              "Size": 471,
+              "URL": "http://status.geotrust.com/"
+            }
+          ],
+          "SSLCipher": "None",
+          "SSLVersion": "None"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "firefox.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "34.107.221.82",
+          "IncludeInScript": true,
+          "Name": "detectportal.firefox.com",
+          "Port": 80,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 16,
+              "EventId": 830,
+              "HttpStatus": 200,
+              "Size": 8,
+              "URL": "http://detectportal.firefox.com/success.txt?ipv4"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 31,
+              "EventId": 801,
+              "HttpStatus": 200,
+              "Size": 90,
+              "URL": "http://detectportal.firefox.com/canonical.html"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 0,
+              "EventId": 224,
+              "HttpStatus": 200,
+              "Size": 8,
+              "URL": "http://detectportal.firefox.com/success.txt?ipv4"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 15,
+              "EventId": 106,
+              "HttpStatus": 200,
+              "Size": 90,
+              "URL": "http://detectportal.firefox.com/canonical.html"
+            }
+          ],
+          "SSLCipher": "None",
+          "SSLVersion": "None"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "digicert.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "117.18.237.29",
+          "IncludeInScript": true,
+          "Name": "ocsp.digicert.com",
+          "Port": 80,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "application/ocsp-response",
+              "DownloadTime": 16,
+              "EventId": 1013,
+              "HttpStatus": 200,
+              "Size": 313,
+              "URL": "http://ocsp.digicert.com/"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/ocsp-response",
+              "DownloadTime": 78,
+              "EventId": 1005,
+              "HttpStatus": 200,
+              "Size": 313,
+              "URL": "http://ocsp.digicert.com/"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/ocsp-response",
+              "DownloadTime": 78,
+              "EventId": 822,
+              "HttpStatus": 200,
+              "Size": 471,
+              "URL": "http://ocsp.digicert.com/"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/ocsp-response",
+              "DownloadTime": 31,
+              "EventId": 639,
+              "HttpStatus": 200,
+              "Size": 313,
+              "URL": "http://ocsp.digicert.com/"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/ocsp-response",
+              "DownloadTime": 110,
+              "EventId": 624,
+              "HttpStatus": 200,
+              "Size": 313,
+              "URL": "http://ocsp.digicert.com/"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/ocsp-response",
+              "DownloadTime": 219,
+              "EventId": 310,
+              "HttpStatus": 200,
+              "Size": 471,
+              "URL": "http://ocsp.digicert.com/"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/ocsp-response",
+              "DownloadTime": 94,
+              "EventId": 306,
+              "HttpStatus": 200,
+              "Size": 471,
+              "URL": "http://ocsp.digicert.com/"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/ocsp-response",
+              "DownloadTime": 16,
+              "EventId": 304,
+              "HttpStatus": 200,
+              "Size": 471,
+              "URL": "http://ocsp.digicert.com/"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/ocsp-response",
+              "DownloadTime": 0,
+              "EventId": 245,
+              "HttpStatus": 200,
+              "Size": 471,
+              "URL": "http://ocsp.digicert.com/"
+            }
+          ],
+          "SSLCipher": "None",
+          "SSLVersion": "None"
+        }
+      ],
+      "IncludeInScript": true
+    }
+  ],
+  "WebSocket": {
+    "IncludeInScript": false,
+    "IsScriptIncludeWebSocket": true
+  },
+  "NumberOfCorrelations": 21
+}

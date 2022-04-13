@@ -1,0 +1,13 @@
+[t33]
+FileName1=t33.htm
+URL1=https://siape.veta.naver.com/fxshow?su=SU10641&nrefreshx=0
+Total=2
+RequestHeaderFile=t33_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t33_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_33.xml
+FileName2=t33_8757eba4-b64d-4f01-a9e7-918a5e6d12b5.jpg
+URL2=https://s.pstatic.net/shopping.phinf/20220324_6/8757eba4-b64d-4f01-a9e7-918a5e6d12b5.jpg?type=f214_292
+[ProtocolInfo]
+ProtocolId=QTWeb

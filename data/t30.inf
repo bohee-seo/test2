@@ -1,0 +1,15 @@
+[t30]
+FileName1=t30.htm
+URL1=https://www.naver.com/include/favorite/favoriteMeta.json
+Total=3
+RequestHeaderFile=t30_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t30_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_30.xml
+FileName2=t30_34e46c06-0bff-4147-97af-ef0f85ff46d0.jpg
+URL2=https://s.pstatic.net/shopping.phinf/20220408_20/34e46c06-0bff-4147-97af-ef0f85ff46d0.jpg?type=f214_292
+FileName3=t30_jquery-1.12.4.min_v1.html
+URL3=https://s.pstatic.net/imgshopping/static/sb/shoppingbox/js/jquery/jquery-1.12.4.min_v1.js?v=2022030715
+[ProtocolInfo]
+ProtocolId=QTWeb

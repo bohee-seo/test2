@@ -1,0 +1,17 @@
+HTTP/1.1 200 OK
+Server: nginx/1.20.1
+Date: Wed, 13 Apr 2022 09:15:16 GMT
+Content-Type: text/xml; charset=utf-8
+Vary: Accept-Encoding
+Cache-Control: public, max-age=90
+Rule-ID: 145
+Rule-Data-Version: 416
+Strict-Transport-Security: max-age=31536000;
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src 'none'; frame-ancestors 'none'
+X-Proxy-Cache-Status: MISS
+Content-Encoding: gzip
+Via: 1.1 google
+Alt-Svc: clear
+Transfer-Encoding: chunked
+

@@ -1,0 +1,11 @@
+[t37]
+FileName1=t37_fxview.html
+URL1=https://siape.veta.naver.com/fxview?eu=EU10043151&calp=-&oj=Gdl%2FoFAYTRkAyd8h7aqH5N4QML%2FQe5c4cBL68IAEamROeyB5RSXlnJVXuXnWDXG8szS0XD7EPuk&ac=8524851&src=5714240&evtcd=C1073&x_ti=1434&tb=&oid=&sid1=&sid2=&rk=b6e3e2e88ea94d941d7d3532313f629a&eltts=lO%2BNXtdHMBFqhWJvAyirPg%3D%3D&brs=Y&&eid=V810&dummy=0.13981641560574332
+Total=1
+ContentType=
+SnapshotXmlFile=snapshot_37.xml
+RequestHeaderFile=t37_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t37_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

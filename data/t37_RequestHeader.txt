@@ -1,0 +1,14 @@
+GET /fxview?eu=EU10043151&calp=-&oj=Gdl%2FoFAYTRkAyd8h7aqH5N4QML%2FQe5c4cBL68IAEamROeyB5RSXlnJVXuXnWDXG8szS0XD7EPuk&ac=8524851&src=5714240&evtcd=C1073&x_ti=1434&tb=&oid=&sid1=&sid2=&rk=b6e3e2e88ea94d941d7d3532313f629a&eltts=lO%2BNXtdHMBFqhWJvAyirPg%3D%3D&brs=Y&&eid=V810&dummy=0.13981641560574332 HTTP/1.1
+Host: siape.veta.naver.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:95.0) Gecko/20100101 Firefox/95.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.naver.com/
+DNT: 1
+Connection: keep-alive
+Cookie: NNB=OQNX5DOJSRLGE
+Sec-Fetch-Dest: image
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-site
+

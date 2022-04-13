@@ -1,0 +1,12 @@
+HTTP/1.1 200 
+date: Wed, 13 Apr 2022 09:16:00 GMT
+content-type: application/json
+transfer-encoding: chunked
+vary: Origin
+vary: Access-Control-Request-Method
+vary: Access-Control-Request-Headers
+access-control-allow-origin: https://www.naver.com
+access-control-allow-credentials: true
+referrer-policy: unsafe-url
+server: nfront
+

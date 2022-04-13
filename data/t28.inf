@@ -1,0 +1,11 @@
+[t28]
+FileName1=t28.htm
+URL1=https://siape.veta.naver.com/fxshow?su=SU10803&nrefreshx=0
+Total=1
+RequestHeaderFile=t28_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t28_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_28.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

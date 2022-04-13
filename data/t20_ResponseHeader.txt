@@ -1,0 +1,21 @@
+HTTP/1.1 200 OK
+Date: Wed, 13 Apr 2022 09:15:41 GMT
+Content-Type: application/json;charset=utf-8
+Content-Length: 55
+Connection: keep-alive
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Referrer-Policy: same-origin
+Vary: Origin,Accept-Encoding,Access-Control-Request-Method,Access-Control-Request-Headers
+Content-Encoding: gzip
+X-XSS-Protection: 1
+Cache-Control: no-cache,no-store
+Pragma: no-cache
+X-Content-Type-Options: nosniff
+CF-Cache-Status: HIT
+Age: 294
+Last-Modified: Wed, 13 Apr 2022 09:10:47 GMT
+Accept-Ranges: bytes
+Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Server: cloudflare
+CF-RAY: 6fb3193dac3d8841-SIN
+

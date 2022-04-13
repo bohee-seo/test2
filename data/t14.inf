@@ -1,0 +1,13 @@
+[t14]
+FileName1=t14.html
+URL1=http://ocsp.godaddy.com/
+Total=2
+RequestHeaderFile=t14_RequestHeader.txt
+RequestBodyFile=t14_RequestBody.txt
+ResponseHeaderFile=t14_ResponseHeader.txt
+ContentType=application/ocsp-response
+SnapshotXmlFile=snapshot_14.xml
+FileName2=t14_pc.veta.core.min.html
+URL2=https://ssl.pstatic.net/tveta/libs/assets/js/pc/main/min/pc.veta.core.min.js
+[ProtocolInfo]
+ProtocolId=QTWeb

@@ -1,0 +1,11 @@
+[t41]
+FileName1=t41_TRPD01.json
+URL1=https://cologger.shopping.naver.com/api/v1/validexpose/biz/TREND_PROD/expsTrtr/TRPD01?adCntsSeqs=4464581&cntsTypeCd=K54001&inflowCd=sbtp&expsPage=1
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_41.xml
+RequestHeaderFile=t41_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t41_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb
